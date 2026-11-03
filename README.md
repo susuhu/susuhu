@@ -1,6 +1,6 @@
 ### Hi, I'm Susu 👋
 
-I'm a PhD researcher in **Machine Learning** at **TU Dresden**, currently visiting the **National Institute of Informatics (NII), Tokyo**.
+I'm a PhD researcher in **Machine Learning** at **German Cancer Research Center (DKFZ)** and **TU Dresden**, currently visiting the **National Institute of Informatics (NII), Tokyo**.
 
 My research focuses on **generative modeling and multimodal learning**, with particular interests in *flow matching, discrete diffusion language models, and visual grounding and temporal reasoning in MLLMs*.
 
