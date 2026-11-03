@@ -1,7 +1,9 @@
 ### Hi, I'm Susu 👋
 
-I'm a PhD researcher in Machine Learning at the **German Cancer Research Center (DKFZ)** and **TU Dresden (TUD)**, currently a visiting researcher at the **National Institute of Informatics (NII), Tokyo**.
+I'm a PhD researcher in **Machine Learning** at **TU Dresden**, currently visiting the **National Institute of Informatics (NII), Tokyo**.
 
-My research interests include **generative modeling, transformers, discrete diffusion language modeling and multimodal learning**, with applications in biomedical AI and beyond.
+My research focuses on **generative modeling and multimodal learning**, with particular interests in *flow matching, discrete diffusion language models, and visual grounding and temporal reasoning in MLLMs*.
+
+I'm interested in developing generalizable ML methods and applying them to challenging real-world problems.
 
 [Website](https://susuhu.github.io/intro) · [Google Scholar](https://scholar.google.com/citations?user=jrUCmgEAAAAJ) · [Hugging Face](https://huggingface.co/HuSusu)
