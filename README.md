@@ -1,4 +1,4 @@
-### Hi, I'm Susu 👋
+### Hi, I'm Su 👋
 
 I'm a PhD researcher in **Machine Learning** at **German Cancer Research Center (DKFZ)** and **TU Dresden**, currently visiting the **National Institute of Informatics (NII), Tokyo**.
 
